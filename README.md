@@ -1,5 +1,5 @@
-# Django ORM Web Application
-
+# EX02 Django ORM Web Application
+# DATE:
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
